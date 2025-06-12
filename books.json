@@ -1,0 +1,1970 @@
+[
+  {
+    "id": 3,
+    "title": "The Silver Throne",
+    "author": "Amanda Lee",
+    "genre": "Historical Fiction",
+    "publishedYear": 1980,
+    "status": "Available"
+  },
+  {
+    "id": 5,
+    "title": "Crown of Shadows",
+    "author": "Sam Smith",
+    "genre": "Productivity",
+    "publishedYear": 1834,
+    "status": "Available"
+  },
+  {
+    "id": 6,
+    "title": "The Wandering Mage",
+    "author": "Alice Burks",
+    "genre": "Biography",
+    "publishedYear": 1816,
+    "status": "Available"
+  },
+  {
+    "id": 7,
+    "title": "Emberblade",
+    "author": "Liam Garcia",
+    "genre": "Philosophy",
+    "publishedYear": 1875,
+    "status": "Issued"
+  },
+  {
+    "id": 8,
+    "title": "The Curse of Eldwyn",
+    "author": "Noah Burks",
+    "genre": "Fiction",
+    "publishedYear": 1899,
+    "status": "Available"
+  },
+  {
+    "id": 9,
+    "title": "Shadows of the Fey",
+    "author": "Noah Burks",
+    "genre": "Post-apocalyptic",
+    "publishedYear": 1955,
+    "status": "Issued"
+  },
+  {
+    "id": 10,
+    "title": "The Raven King's Heir",
+    "author": "Olivia Burks",
+    "genre": "Philosophy",
+    "publishedYear": 2014,
+    "status": "Available"
+  },
+  {
+    "id": 11,
+    "title": "Beyond the Event Horizon",
+    "author": "Olivia Lee",
+    "genre": "Non-fiction",
+    "publishedYear": 1953,
+    "status": "Available"
+  },
+  {
+    "id": 12,
+    "title": "Project Titan",
+    "author": "Mark Garcia",
+    "genre": "Classic",
+    "publishedYear": 1837,
+    "status": "Available"
+  },
+  {
+    "id": 13,
+    "title": "The Quantum Deception",
+    "author": "Mark Harper",
+    "genre": "Horror",
+    "publishedYear": 1887,
+    "status": "Issued"
+  },
+  {
+    "id": 14,
+    "title": "Echoes of Mars",
+    "author": "Alice Burks",
+    "genre": "Fantasy",
+    "publishedYear": 1982,
+    "status": "Available"
+  },
+  {
+    "id": 15,
+    "title": "Timewarped",
+    "author": "Emma Lee",
+    "genre": "Contemporary",
+    "publishedYear": 1970,
+    "status": "Available"
+  },
+  {
+    "id": 16,
+    "title": "Fractured Reality",
+    "author": "Noah Harper",
+    "genre": "Philosophy",
+    "publishedYear": 2003,
+    "status": "Issued"
+  },
+  {
+    "id": 17,
+    "title": "The Singularity Code",
+    "author": "Olivia Taylor",
+    "genre": "Mystery",
+    "publishedYear": 1964,
+    "status": "Issued"
+  },
+  {
+    "id": 18,
+    "title": "Nova Drift",
+    "author": "Alice Davis",
+    "genre": "Memoir",
+    "publishedYear": 1847,
+    "status": "Issued"
+  },
+  {
+    "id": 19,
+    "title": "Last Colony Earth",
+    "author": "Emma Brown",
+    "genre": "Self-help",
+    "publishedYear": 1851,
+    "status": "Available"
+  },
+  {
+    "id": 20,
+    "title": "Ghosts of Andromeda",
+    "author": "Liam Garcia",
+    "genre": "Self-help",
+    "publishedYear": 1870,
+    "status": "Available"
+  },
+  {
+    "id": 21,
+    "title": "The Vanishing Hour",
+    "author": "Noah Lee",
+    "genre": "Thriller",
+    "publishedYear": 1801,
+    "status": "Available"
+  },
+  {
+    "id": 22,
+    "title": "Beneath the Ivy",
+    "author": "John Davis",
+    "genre": "Productivity",
+    "publishedYear": 2014,
+    "status": "Issued"
+  },
+  {
+    "id": 23,
+    "title": "A Trace of Smoke",
+    "author": "Noah Garcia",
+    "genre": "Fantasy",
+    "publishedYear": 1881,
+    "status": "Available"
+  },
+  {
+    "id": 24,
+    "title": "The Final Evidence",
+    "author": "Noah Harper",
+    "genre": "Contemporary",
+    "publishedYear": 1813,
+    "status": "Available"
+  },
+  {
+    "id": 25,
+    "title": "The Silent Witness",
+    "author": "John Johnson",
+    "genre": "Productivity",
+    "publishedYear": 1997,
+    "status": "Available"
+  },
+  {
+    "id": 26,
+    "title": "Dark Harbor",
+    "author": "Alice Garcia",
+    "genre": "Horror",
+    "publishedYear": 1912,
+    "status": "Issued"
+  },
+  {
+    "id": 27,
+    "title": "Shattered Alibi",
+    "author": "Alice Miller",
+    "genre": "Young Adult",
+    "publishedYear": 1875,
+    "status": "Issued"
+  },
+  {
+    "id": 28,
+    "title": "Secrets in the Fog",
+    "author": "Alice Garcia",
+    "genre": "Fiction",
+    "publishedYear": 1930,
+    "status": "Issued"
+  },
+  {
+    "id": 29,
+    "title": "The Ninth Room",
+    "author": "Amanda Miller",
+    "genre": "Young Adult",
+    "publishedYear": 1887,
+    "status": "Available"
+  },
+  {
+    "id": 30,
+    "title": "Buried in Blue",
+    "author": "Noah Taylor",
+    "genre": "Historical Fiction",
+    "publishedYear": 1961,
+    "status": "Issued"
+  },
+  {
+    "id": 31,
+    "title": "Love at Redwood Lake",
+    "author": "John Lee",
+    "genre": "Business",
+    "publishedYear": 1839,
+    "status": "Issued"
+  },
+  {
+    "id": 32,
+    "title": "The Coffee Shop Letters",
+    "author": "Emma Lee",
+    "genre": "Romance",
+    "publishedYear": 1929,
+    "status": "Issued"
+  },
+  {
+    "id": 33,
+    "title": "Midnight Sunflowers",
+    "author": "Emma Johnson",
+    "genre": "Horror",
+    "publishedYear": 1904,
+    "status": "Issued"
+  },
+  {
+    "id": 34,
+    "title": "The Paris Proposal",
+    "author": "Olivia Smith",
+    "genre": "Biography",
+    "publishedYear": 1855,
+    "status": "Issued"
+  },
+  {
+    "id": 35,
+    "title": "Falling Through June",
+    "author": "Emma Taylor",
+    "genre": "Fiction",
+    "publishedYear": 1902,
+    "status": "Available"
+  },
+  {
+    "id": 36,
+    "title": "Hearts on Fire",
+    "author": "Olivia Taylor",
+    "genre": "Fantasy",
+    "publishedYear": 1839,
+    "status": "Available"
+  },
+  {
+    "id": 37,
+    "title": "The Lighthouse Keeper’s Promise",
+    "author": "Mark Miller",
+    "genre": "Adventure",
+    "publishedYear": 1996,
+    "status": "Issued"
+  },
+  {
+    "id": 38,
+    "title": "Beneath the Cherry Moon",
+    "author": "Amanda Smith",
+    "genre": "Young Adult",
+    "publishedYear": 1804,
+    "status": "Issued"
+  },
+  {
+    "id": 39,
+    "title": "Waves of Us",
+    "author": "Mark Miller",
+    "genre": "Horror",
+    "publishedYear": 2002,
+    "status": "Issued"
+  },
+  {
+    "id": 40,
+    "title": "Letters to You",
+    "author": "Alice Garcia",
+    "genre": "Fiction",
+    "publishedYear": 1803,
+    "status": "Available"
+  },
+  {
+    "id": 41,
+    "title": "The Art of Forgetting",
+    "author": "Rosa Taylor",
+    "genre": "Business",
+    "publishedYear": 1980,
+    "status": "Issued"
+  },
+  {
+    "id": 42,
+    "title": "The Forgotten Manuscript",
+    "author": "Amanda Taylor",
+    "genre": "Self-help",
+    "publishedYear": 1907,
+    "status": "Issued"
+  },
+  {
+    "id": 43,
+    "title": "Portraits of Rain",
+    "author": "Mark Miller",
+    "genre": "Biography",
+    "publishedYear": 1839,
+    "status": "Issued"
+  },
+  {
+    "id": 44,
+    "title": "Whispers from the Attic",
+    "author": "John Miller",
+    "genre": "Non-fiction",
+    "publishedYear": 1862,
+    "status": "Available"
+  },
+  {
+    "id": 45,
+    "title": "The Archivist’s Secret",
+    "author": "Emma Taylor",
+    "genre": "Romance",
+    "publishedYear": 1803,
+    "status": "Available"
+  },
+  {
+    "id": 46,
+    "title": "The Last Bookstore",
+    "author": "Liam Lee",
+    "genre": "Fantasy",
+    "publishedYear": 1983,
+    "status": "Issued"
+  },
+  {
+    "id": 47,
+    "title": "The Mapmaker’s Memory",
+    "author": "Emma Garcia",
+    "genre": "Romance",
+    "publishedYear": 1865,
+    "status": "Available"
+  },
+  {
+    "id": 48,
+    "title": "Dust and Ink",
+    "author": "John Garcia",
+    "genre": "Adventure",
+    "publishedYear": 1952,
+    "status": "Available"
+  },
+  {
+    "id": 49,
+    "title": "The Librarian of Marais",
+    "author": "Rosa Harper",
+    "genre": "Classic",
+    "publishedYear": 1825,
+    "status": "Issued"
+  },
+  {
+    "id": 50,
+    "title": "Beneath Glass Skies",
+    "author": "Emma Burks",
+    "genre": "Business",
+    "publishedYear": 2017,
+    "status": "Available"
+  },
+  {
+    "id": 51,
+    "title": "Daughters of the Drought",
+    "author": "Alice Garcia",
+    "genre": "Contemporary",
+    "publishedYear": 1962,
+    "status": "Issued"
+  },
+  {
+    "id": 52,
+    "title": "The Iron Orchard",
+    "author": "Amanda Lee",
+    "genre": "Memoir",
+    "publishedYear": 1800,
+    "status": "Issued"
+  },
+  {
+    "id": 53,
+    "title": "Tales from Ash Hollow",
+    "author": "Emma Burks",
+    "genre": "Biography",
+    "publishedYear": 2009,
+    "status": "Issued"
+  },
+  {
+    "id": 54,
+    "title": "Echoes in the Ironwood",
+    "author": "Olivia Lee",
+    "genre": "Philosophy",
+    "publishedYear": 1910,
+    "status": "Issued"
+  },
+  {
+    "id": 55,
+    "title": "The Painted Bridge",
+    "author": "Liam Johnson",
+    "genre": "Drama",
+    "publishedYear": 1890,
+    "status": "Available"
+  },
+  {
+    "id": 56,
+    "title": "When Crows Remember",
+    "author": "Liam Johnson",
+    "genre": "Philosophy",
+    "publishedYear": 1809,
+    "status": "Available"
+  },
+  {
+    "id": 57,
+    "title": "The Keeper of Thorns",
+    "author": "Rosa Smith",
+    "genre": "Science Fiction",
+    "publishedYear": 1991,
+    "status": "Issued"
+  },
+  {
+    "id": 58,
+    "title": "Children of the Stone",
+    "author": "Noah Smith",
+    "genre": "Fantasy",
+    "publishedYear": 2004,
+    "status": "Issued"
+  },
+  {
+    "id": 59,
+    "title": "The Gilded Garden",
+    "author": "Alice Davis",
+    "genre": "Philosophy",
+    "publishedYear": 1806,
+    "status": "Issued"
+  },
+  {
+    "id": 60,
+    "title": "Memoirs of a Quiet Heart",
+    "author": "Liam Burks",
+    "genre": "Contemporary",
+    "publishedYear": 1827,
+    "status": "Issued"
+  },
+  {
+    "id": 61,
+    "title": "Fragments of Us",
+    "author": "Alice Burks",
+    "genre": "Mystery",
+    "publishedYear": 1869,
+    "status": "Available"
+  },
+  {
+    "id": 62,
+    "title": "The Midnight Journal",
+    "author": "Liam Davis",
+    "genre": "Post-apocalyptic",
+    "publishedYear": 1962,
+    "status": "Issued"
+  },
+  {
+    "id": 63,
+    "title": "Ghostwritten",
+    "author": "Rosa Brown",
+    "genre": "Science Fiction",
+    "publishedYear": 2014,
+    "status": "Available"
+  },
+  {
+    "id": 64,
+    "title": "Before the Fall",
+    "author": "Amanda Taylor",
+    "genre": "Biography",
+    "publishedYear": 1873,
+    "status": "Available"
+  },
+  {
+    "id": 65,
+    "title": "Dawn Over the Dunes",
+    "author": "Sam Smith",
+    "genre": "Historical Fiction",
+    "publishedYear": 1864,
+    "status": "Available"
+  },
+  {
+    "id": 66,
+    "title": "The Longest Winter",
+    "author": "Noah Brown",
+    "genre": "Romance",
+    "publishedYear": 2013,
+    "status": "Issued"
+  },
+  {
+    "id": 67,
+    "title": "Notes Between Strangers",
+    "author": "Sam Davis",
+    "genre": "Romance",
+    "publishedYear": 1957,
+    "status": "Issued"
+  },
+  {
+    "id": 68,
+    "title": "The Glass Room",
+    "author": "Noah Harper",
+    "genre": "Classic",
+    "publishedYear": 1842,
+    "status": "Issued"
+  },
+  {
+    "id": 69,
+    "title": "The Architect’s Widow",
+    "author": "John Harper",
+    "genre": "Fantasy",
+    "publishedYear": 1901,
+    "status": "Available"
+  },
+  {
+    "id": 70,
+    "title": "Silent Symphony",
+    "author": "Sam Davis",
+    "genre": "Fantasy",
+    "publishedYear": 2010,
+    "status": "Available"
+  },
+  {
+    "id": 71,
+    "title": "Paper Hearts and Whiskey",
+    "author": "Olivia Johnson",
+    "genre": "Young Adult",
+    "publishedYear": 1826,
+    "status": "Issued"
+  },
+  {
+    "id": 72,
+    "title": "Chasing Stillness",
+    "author": "Alice Garcia",
+    "genre": "Memoir",
+    "publishedYear": 1929,
+    "status": "Issued"
+  },
+  {
+    "id": 73,
+    "title": "The Winter Wager",
+    "author": "Alice Garcia",
+    "genre": "Drama",
+    "publishedYear": 1923,
+    "status": "Available"
+  },
+  {
+    "id": 74,
+    "title": "Bitter Orange Sky",
+    "author": "Rosa Garcia",
+    "genre": "Post-apocalyptic",
+    "publishedYear": 1926,
+    "status": "Available"
+  },
+  {
+    "id": 75,
+    "title": "Under the Mulberry Moon",
+    "author": "Olivia Taylor",
+    "genre": "Classic",
+    "publishedYear": 1901,
+    "status": "Issued"
+  },
+  {
+    "id": 76,
+    "title": "Lanterns of the Soul",
+    "author": "Noah Miller",
+    "genre": "Mystery",
+    "publishedYear": 2004,
+    "status": "Available"
+  },
+  {
+    "id": 77,
+    "title": "The House on Alder Street",
+    "author": "Mark Taylor",
+    "genre": "Finance",
+    "publishedYear": 1857,
+    "status": "Available"
+  },
+  {
+    "id": 78,
+    "title": "The Clockmaker’s Son",
+    "author": "Mark Miller",
+    "genre": "Post-apocalyptic",
+    "publishedYear": 1895,
+    "status": "Available"
+  },
+  {
+    "id": 79,
+    "title": "A Shadow Between Stars",
+    "author": "John Miller",
+    "genre": "Fiction",
+    "publishedYear": 1897,
+    "status": "Issued"
+  },
+  {
+    "id": 80,
+    "title": "River of Paper",
+    "author": "Liam Taylor",
+    "genre": "Drama",
+    "publishedYear": 1869,
+    "status": "Issued"
+  },
+  {
+    "id": 81,
+    "title": "The Fire We Borrowed",
+    "author": "Noah Burks",
+    "genre": "Post-apocalyptic",
+    "publishedYear": 1954,
+    "status": "Available"
+  },
+  {
+    "id": 82,
+    "title": "Deadlights",
+    "author": "Alice Garcia",
+    "genre": "Productivity",
+    "publishedYear": 1828,
+    "status": "Available"
+  },
+  {
+    "id": 83,
+    "title": "Twilight Over Elmsfield",
+    "author": "Rosa Smith",
+    "genre": "Philosophy",
+    "publishedYear": 1950,
+    "status": "Issued"
+  },
+  {
+    "id": 84,
+    "title": "The Tower Beneath the Lake",
+    "author": "Mark Taylor",
+    "genre": "Non-fiction",
+    "publishedYear": 1894,
+    "status": "Issued"
+  },
+  {
+    "id": 85,
+    "title": "Of Blood and Blossoms",
+    "author": "Alice Miller",
+    "genre": "Productivity",
+    "publishedYear": 1909,
+    "status": "Available"
+  },
+  {
+    "id": 86,
+    "title": "The Ink-Eater’s Daughter",
+    "author": "Alice Brown",
+    "genre": "Productivity",
+    "publishedYear": 1995,
+    "status": "Available"
+  },
+  {
+    "id": 87,
+    "title": "Red Sky Mercy",
+    "author": "John Johnson",
+    "genre": "Fantasy",
+    "publishedYear": 1829,
+    "status": "Issued"
+  },
+  {
+    "id": 88,
+    "title": "The Memory Orchard",
+    "author": "Olivia Harper",
+    "genre": "Adventure",
+    "publishedYear": 2008,
+    "status": "Issued"
+  },
+  {
+    "id": 89,
+    "title": "Winter in Vellum",
+    "author": "Emma Lee",
+    "genre": "Drama",
+    "publishedYear": 1885,
+    "status": "Issued"
+  },
+  {
+    "id": 90,
+    "title": "The Forgotten Port",
+    "author": "John Davis",
+    "genre": "Self-help",
+    "publishedYear": 1944,
+    "status": "Issued"
+  },
+  {
+    "id": 91,
+    "title": "A Hollow in the Garden",
+    "author": "Emma Lee",
+    "genre": "Productivity",
+    "publishedYear": 1837,
+    "status": "Issued"
+  },
+  {
+    "id": 92,
+    "title": "Tidings from the Hollow Tree",
+    "author": "Mark Davis",
+    "genre": "Adventure",
+    "publishedYear": 1887,
+    "status": "Issued"
+  },
+  {
+    "id": 93,
+    "title": "Letters in Sapphire",
+    "author": "Mark Smith",
+    "genre": "Productivity",
+    "publishedYear": 1978,
+    "status": "Issued"
+  },
+  {
+    "id": 94,
+    "title": "Midnight at the Black Well",
+    "author": "Noah Smith",
+    "genre": "Drama",
+    "publishedYear": 1872,
+    "status": "Issued"
+  },
+  {
+    "id": 95,
+    "title": "The Rootbound Path",
+    "author": "John Miller",
+    "genre": "Contemporary",
+    "publishedYear": 1968,
+    "status": "Available"
+  },
+  {
+    "id": 96,
+    "title": "The Fifth Lantern",
+    "author": "Olivia Miller",
+    "genre": "Thriller",
+    "publishedYear": 1975,
+    "status": "Available"
+  },
+  {
+    "id": 97,
+    "title": "The Paper Ship",
+    "author": "Liam Davis",
+    "genre": "Historical Fiction",
+    "publishedYear": 1939,
+    "status": "Available"
+  },
+  {
+    "id": 98,
+    "title": "Among the Dust and Leaves",
+    "author": "Liam Garcia",
+    "genre": "Adventure",
+    "publishedYear": 1843,
+    "status": "Available"
+  },
+  {
+    "id": 99,
+    "title": "Shifting Wind",
+    "author": "Noah Harper",
+    "genre": "Fantasy",
+    "publishedYear": 2009,
+    "status": "Available"
+  },
+  {
+    "id": 100,
+    "title": "Crescent Veil",
+    "author": "Amanda Lee",
+    "genre": "Classic",
+    "publishedYear": 1822,
+    "status": "Issued"
+  },
+  {
+    "id": 101,
+    "title": "All the Time We Never Had",
+    "author": "John Brown",
+    "genre": "Biography",
+    "publishedYear": 1953,
+    "status": "Issued"
+  },
+  {
+    "id": 102,
+    "title": "The Sound of Distant Rain",
+    "author": "Rosa Garcia",
+    "genre": "Philosophy",
+    "publishedYear": 1966,
+    "status": "Issued"
+  },
+  {
+    "id": 103,
+    "title": "Of Ashes and Altars",
+    "author": "Alice Brown",
+    "genre": "Fantasy",
+    "publishedYear": 1942,
+    "status": "Available"
+  },
+  {
+    "id": 104,
+    "title": "The Crimson Oath",
+    "author": "Amanda Brown",
+    "genre": "Contemporary",
+    "publishedYear": 1850,
+    "status": "Available"
+  },
+  {
+    "id": 105,
+    "title": "Whisper of Dragons",
+    "author": "Noah Davis",
+    "genre": "Drama",
+    "publishedYear": 1937,
+    "status": "Issued"
+  },
+  {
+    "id": 106,
+    "title": "The Silver Throne",
+    "author": "Sam Garcia",
+    "genre": "Historical Fiction",
+    "publishedYear": 1815,
+    "status": "Available"
+  },
+  {
+    "id": 107,
+    "title": "A Song for the Fallen",
+    "author": "Rosa Lee",
+    "genre": "Mystery",
+    "publishedYear": 1945,
+    "status": "Available"
+  },
+  {
+    "id": 108,
+    "title": "Crown of Shadows",
+    "author": "Sam Lee",
+    "genre": "Productivity",
+    "publishedYear": 1999,
+    "status": "Issued"
+  },
+  {
+    "id": 109,
+    "title": "The Wandering Mage",
+    "author": "Amanda Garcia",
+    "genre": "Drama",
+    "publishedYear": 1811,
+    "status": "Available"
+  },
+  {
+    "id": 110,
+    "title": "Emberblade",
+    "author": "Mark Brown",
+    "genre": "Memoir",
+    "publishedYear": 1905,
+    "status": "Issued"
+  },
+  {
+    "id": 111,
+    "title": "The Curse of Eldwyn",
+    "author": "John Davis",
+    "genre": "Horror",
+    "publishedYear": 1915,
+    "status": "Issued"
+  },
+  {
+    "id": 112,
+    "title": "Shadows of the Fey",
+    "author": "Liam Brown",
+    "genre": "Romance",
+    "publishedYear": 1844,
+    "status": "Issued"
+  },
+  {
+    "id": 113,
+    "title": "The Raven King's Heir",
+    "author": "Emma Burks",
+    "genre": "Thriller",
+    "publishedYear": 1992,
+    "status": "Available"
+  },
+  {
+    "id": 114,
+    "title": "Beyond the Event Horizon",
+    "author": "Liam Lee",
+    "genre": "Adventure",
+    "publishedYear": 1805,
+    "status": "Issued"
+  },
+  {
+    "id": 115,
+    "title": "Project Titan",
+    "author": "Amanda Davis",
+    "genre": "Drama",
+    "publishedYear": 2005,
+    "status": "Issued"
+  },
+  {
+    "id": 116,
+    "title": "The Quantum Deception",
+    "author": "Olivia Garcia",
+    "genre": "Thriller",
+    "publishedYear": 1861,
+    "status": "Available"
+  },
+  {
+    "id": 117,
+    "title": "Echoes of Mars",
+    "author": "Olivia Garcia",
+    "genre": "Romance",
+    "publishedYear": 1898,
+    "status": "Issued"
+  },
+  {
+    "id": 118,
+    "title": "Timewarped",
+    "author": "Emma Garcia",
+    "genre": "Philosophy",
+    "publishedYear": 1930,
+    "status": "Available"
+  },
+  {
+    "id": 119,
+    "title": "Fractured Reality",
+    "author": "Sam Garcia",
+    "genre": "Dystopian",
+    "publishedYear": 1901,
+    "status": "Issued"
+  },
+  {
+    "id": 120,
+    "title": "The Singularity Code",
+    "author": "Noah Harper",
+    "genre": "Biography",
+    "publishedYear": 1976,
+    "status": "Issued"
+  },
+  {
+    "id": 121,
+    "title": "Nova Drift",
+    "author": "Noah Smith",
+    "genre": "Science Fiction",
+    "publishedYear": 1833,
+    "status": "Available"
+  },
+  {
+    "id": 122,
+    "title": "Last Colony Earth",
+    "author": "Olivia Burks",
+    "genre": "Mystery",
+    "publishedYear": 1802,
+    "status": "Available"
+  },
+  {
+    "id": 123,
+    "title": "Ghosts of Andromeda",
+    "author": "Noah Miller",
+    "genre": "Memoir",
+    "publishedYear": 1867,
+    "status": "Available"
+  },
+  {
+    "id": 124,
+    "title": "The Vanishing Hour",
+    "author": "Emma Johnson",
+    "genre": "Young Adult",
+    "publishedYear": 1915,
+    "status": "Issued"
+  },
+  {
+    "id": 125,
+    "title": "Beneath the Ivy",
+    "author": "John Harper",
+    "genre": "Memoir",
+    "publishedYear": 1868,
+    "status": "Issued"
+  },
+  {
+    "id": 126,
+    "title": "A Trace of Smoke",
+    "author": "Alice Johnson",
+    "genre": "Thriller",
+    "publishedYear": 1956,
+    "status": "Available"
+  },
+  {
+    "id": 127,
+    "title": "The Final Evidence",
+    "author": "John Harper",
+    "genre": "Classic",
+    "publishedYear": 1853,
+    "status": "Available"
+  },
+  {
+    "id": 128,
+    "title": "The Silent Witness",
+    "author": "Mark Lee",
+    "genre": "Memoir",
+    "publishedYear": 1867,
+    "status": "Available"
+  },
+  {
+    "id": 129,
+    "title": "Dark Harbor",
+    "author": "John Lee",
+    "genre": "Drama",
+    "publishedYear": 1958,
+    "status": "Available"
+  },
+  {
+    "id": 130,
+    "title": "Shattered Alibi",
+    "author": "Alice Miller",
+    "genre": "Business",
+    "publishedYear": 1986,
+    "status": "Issued"
+  },
+  {
+    "id": 131,
+    "title": "Secrets in the Fog",
+    "author": "Amanda Smith",
+    "genre": "Contemporary",
+    "publishedYear": 2014,
+    "status": "Available"
+  },
+  {
+    "id": 132,
+    "title": "The Ninth Room",
+    "author": "Noah Harper",
+    "genre": "Classic",
+    "publishedYear": 1857,
+    "status": "Available"
+  },
+  {
+    "id": 133,
+    "title": "Buried in Blue",
+    "author": "Alice Davis",
+    "genre": "Non-fiction",
+    "publishedYear": 1837,
+    "status": "Available"
+  },
+  {
+    "id": 134,
+    "title": "Love at Redwood Lake",
+    "author": "Emma Lee",
+    "genre": "Productivity",
+    "publishedYear": 1811,
+    "status": "Available"
+  },
+  {
+    "id": 135,
+    "title": "The Coffee Shop Letters",
+    "author": "Rosa Johnson",
+    "genre": "Self-help",
+    "publishedYear": 1819,
+    "status": "Available"
+  },
+  {
+    "id": 136,
+    "title": "Midnight Sunflowers",
+    "author": "Amanda Brown",
+    "genre": "Thriller",
+    "publishedYear": 2003,
+    "status": "Issued"
+  },
+  {
+    "id": 137,
+    "title": "The Paris Proposal",
+    "author": "Amanda Davis",
+    "genre": "Fiction",
+    "publishedYear": 1886,
+    "status": "Available"
+  },
+  {
+    "id": 138,
+    "title": "Falling Through June",
+    "author": "Amanda Miller",
+    "genre": "Self-help",
+    "publishedYear": 1808,
+    "status": "Issued"
+  },
+  {
+    "id": 139,
+    "title": "Hearts on Fire",
+    "author": "Mark Harper",
+    "genre": "Adventure",
+    "publishedYear": 1938,
+    "status": "Issued"
+  },
+  {
+    "id": 140,
+    "title": "The Lighthouse Keeper’s Promise",
+    "author": "Rosa Brown",
+    "genre": "Biography",
+    "publishedYear": 1834,
+    "status": "Available"
+  },
+  {
+    "id": 141,
+    "title": "Beneath the Cherry Moon",
+    "author": "Olivia Lee",
+    "genre": "Young Adult",
+    "publishedYear": 1807,
+    "status": "Issued"
+  },
+  {
+    "id": 142,
+    "title": "Waves of Us",
+    "author": "Olivia Davis",
+    "genre": "Drama",
+    "publishedYear": 1919,
+    "status": "Available"
+  },
+  {
+    "id": 143,
+    "title": "Letters to You",
+    "author": "Sam Taylor",
+    "genre": "Post-apocalyptic",
+    "publishedYear": 1943,
+    "status": "Issued"
+  },
+  {
+    "id": 144,
+    "title": "The Art of Forgetting",
+    "author": "Emma Lee",
+    "genre": "Fantasy",
+    "publishedYear": 1847,
+    "status": "Available"
+  },
+  {
+    "id": 145,
+    "title": "The Forgotten Manuscript",
+    "author": "Emma Miller",
+    "genre": "Contemporary",
+    "publishedYear": 1839,
+    "status": "Issued"
+  },
+  {
+    "id": 146,
+    "title": "Portraits of Rain",
+    "author": "Sam Miller",
+    "genre": "Non-fiction",
+    "publishedYear": 1961,
+    "status": "Issued"
+  },
+  {
+    "id": 147,
+    "title": "Whispers from the Attic",
+    "author": "John Johnson",
+    "genre": "Thriller",
+    "publishedYear": 1908,
+    "status": "Issued"
+  },
+  {
+    "id": 148,
+    "title": "The Archivist’s Secret",
+    "author": "Rosa Burks",
+    "genre": "Finance",
+    "publishedYear": 1957,
+    "status": "Available"
+  },
+  {
+    "id": 149,
+    "title": "The Last Bookstore",
+    "author": "Mark Johnson",
+    "genre": "Fantasy",
+    "publishedYear": 1919,
+    "status": "Issued"
+  },
+  {
+    "id": 150,
+    "title": "The Mapmaker’s Memory",
+    "author": "Alice Brown",
+    "genre": "Post-apocalyptic",
+    "publishedYear": 1972,
+    "status": "Issued"
+  },
+  {
+    "id": 151,
+    "title": "Dust and Ink",
+    "author": "Mark Johnson",
+    "genre": "Post-apocalyptic",
+    "publishedYear": 1850,
+    "status": "Available"
+  },
+  {
+    "id": 152,
+    "title": "The Librarian of Marais",
+    "author": "Rosa Johnson",
+    "genre": "Classic",
+    "publishedYear": 1918,
+    "status": "Available"
+  },
+  {
+    "id": 153,
+    "title": "Beneath Glass Skies",
+    "author": "Olivia Burks",
+    "genre": "Horror",
+    "publishedYear": 1986,
+    "status": "Available"
+  },
+  {
+    "id": 154,
+    "title": "Daughters of the Drought",
+    "author": "John Miller",
+    "genre": "Self-help",
+    "publishedYear": 1867,
+    "status": "Issued"
+  },
+  {
+    "id": 155,
+    "title": "The Iron Orchard",
+    "author": "Alice Smith",
+    "genre": "Romance",
+    "publishedYear": 1846,
+    "status": "Issued"
+  },
+  {
+    "id": 156,
+    "title": "Tales from Ash Hollow",
+    "author": "Alice Davis",
+    "genre": "Horror",
+    "publishedYear": 1817,
+    "status": "Available"
+  },
+  {
+    "id": 157,
+    "title": "Echoes in the Ironwood",
+    "author": "Alice Smith",
+    "genre": "Post-apocalyptic",
+    "publishedYear": 1870,
+    "status": "Available"
+  },
+  {
+    "id": 158,
+    "title": "The Painted Bridge",
+    "author": "Rosa Lee",
+    "genre": "Classic",
+    "publishedYear": 2019,
+    "status": "Issued"
+  },
+  {
+    "id": 159,
+    "title": "When Crows Remember",
+    "author": "Amanda Johnson",
+    "genre": "Contemporary",
+    "publishedYear": 1805,
+    "status": "Issued"
+  },
+  {
+    "id": 160,
+    "title": "The Keeper of Thorns",
+    "author": "Sam Harper",
+    "genre": "Self-help",
+    "publishedYear": 1958,
+    "status": "Issued"
+  },
+  {
+    "id": 161,
+    "title": "Children of the Stone",
+    "author": "Noah Harper",
+    "genre": "Historical Fiction",
+    "publishedYear": 1816,
+    "status": "Issued"
+  },
+  {
+    "id": 162,
+    "title": "The Gilded Garden",
+    "author": "Sam Lee",
+    "genre": "Thriller",
+    "publishedYear": 1903,
+    "status": "Available"
+  },
+  {
+    "id": 163,
+    "title": "Memoirs of a Quiet Heart",
+    "author": "Emma Harper",
+    "genre": "Mystery",
+    "publishedYear": 1804,
+    "status": "Issued"
+  },
+  {
+    "id": 164,
+    "title": "Fragments of Us",
+    "author": "John Johnson",
+    "genre": "Dystopian",
+    "publishedYear": 2011,
+    "status": "Issued"
+  },
+  {
+    "id": 165,
+    "title": "The Midnight Journal",
+    "author": "Mark Brown",
+    "genre": "Post-apocalyptic",
+    "publishedYear": 1939,
+    "status": "Issued"
+  },
+  {
+    "id": 166,
+    "title": "Ghostwritten",
+    "author": "Noah Lee",
+    "genre": "Finance",
+    "publishedYear": 1852,
+    "status": "Available"
+  },
+  {
+    "id": 167,
+    "title": "Before the Fall",
+    "author": "Olivia Garcia",
+    "genre": "Young Adult",
+    "publishedYear": 1987,
+    "status": "Available"
+  },
+  {
+    "id": 168,
+    "title": "Dawn Over the Dunes",
+    "author": "Emma Johnson",
+    "genre": "Drama",
+    "publishedYear": 2003,
+    "status": "Available"
+  },
+  {
+    "id": 169,
+    "title": "The Longest Winter",
+    "author": "Emma Burks",
+    "genre": "Adventure",
+    "publishedYear": 1964,
+    "status": "Available"
+  },
+  {
+    "id": 170,
+    "title": "Notes Between Strangers",
+    "author": "Amanda Davis",
+    "genre": "Non-fiction",
+    "publishedYear": 1980,
+    "status": "Issued"
+  },
+  {
+    "id": 171,
+    "title": "The Glass Room",
+    "author": "Liam Johnson",
+    "genre": "Adventure",
+    "publishedYear": 1821,
+    "status": "Issued"
+  },
+  {
+    "id": 172,
+    "title": "The Architect’s Widow",
+    "author": "Rosa Lee",
+    "genre": "Memoir",
+    "publishedYear": 1922,
+    "status": "Issued"
+  },
+  {
+    "id": 173,
+    "title": "Silent Symphony",
+    "author": "Alice Lee",
+    "genre": "Classic",
+    "publishedYear": 1861,
+    "status": "Issued"
+  },
+  {
+    "id": 174,
+    "title": "Paper Hearts and Whiskey",
+    "author": "Rosa Smith",
+    "genre": "Classic",
+    "publishedYear": 1996,
+    "status": "Available"
+  },
+  {
+    "id": 175,
+    "title": "Chasing Stillness",
+    "author": "Liam Garcia",
+    "genre": "Memoir",
+    "publishedYear": 1971,
+    "status": "Available"
+  },
+  {
+    "id": 176,
+    "title": "The Winter Wager",
+    "author": "Noah Brown",
+    "genre": "Adventure",
+    "publishedYear": 1953,
+    "status": "Issued"
+  },
+  {
+    "id": 177,
+    "title": "Bitter Orange Sky",
+    "author": "Alice Taylor",
+    "genre": "Productivity",
+    "publishedYear": 1952,
+    "status": "Available"
+  },
+  {
+    "id": 178,
+    "title": "Under the Mulberry Moon",
+    "author": "Emma Johnson",
+    "genre": "Productivity",
+    "publishedYear": 1873,
+    "status": "Issued"
+  },
+  {
+    "id": 179,
+    "title": "Lanterns of the Soul",
+    "author": "Alice Garcia",
+    "genre": "Fiction",
+    "publishedYear": 1962,
+    "status": "Available"
+  },
+  {
+    "id": 180,
+    "title": "The House on Alder Street",
+    "author": "Amanda Brown",
+    "genre": "Biography",
+    "publishedYear": 1888,
+    "status": "Available"
+  },
+  {
+    "id": 181,
+    "title": "The Clockmaker’s Son",
+    "author": "Sam Garcia",
+    "genre": "Business",
+    "publishedYear": 1920,
+    "status": "Available"
+  },
+  {
+    "id": 182,
+    "title": "A Shadow Between Stars",
+    "author": "Rosa Miller",
+    "genre": "Business",
+    "publishedYear": 1967,
+    "status": "Issued"
+  },
+  {
+    "id": 183,
+    "title": "River of Paper",
+    "author": "Mark Taylor",
+    "genre": "Horror",
+    "publishedYear": 1899,
+    "status": "Issued"
+  },
+  {
+    "id": 184,
+    "title": "The Fire We Borrowed",
+    "author": "Noah Garcia",
+    "genre": "Horror",
+    "publishedYear": 1813,
+    "status": "Issued"
+  },
+  {
+    "id": 185,
+    "title": "Deadlights",
+    "author": "Rosa Miller",
+    "genre": "Fantasy",
+    "publishedYear": 2014,
+    "status": "Issued"
+  },
+  {
+    "id": 186,
+    "title": "Twilight Over Elmsfield",
+    "author": "Amanda Harper",
+    "genre": "Post-apocalyptic",
+    "publishedYear": 1993,
+    "status": "Available"
+  },
+  {
+    "id": 187,
+    "title": "The Tower Beneath the Lake",
+    "author": "Alice Garcia",
+    "genre": "Philosophy",
+    "publishedYear": 1903,
+    "status": "Available"
+  },
+  {
+    "id": 188,
+    "title": "Of Blood and Blossoms",
+    "author": "Rosa Brown",
+    "genre": "Young Adult",
+    "publishedYear": 1863,
+    "status": "Available"
+  },
+  {
+    "id": 189,
+    "title": "The Ink-Eater’s Daughter",
+    "author": "Mark Taylor",
+    "genre": "Self-help",
+    "publishedYear": 1981,
+    "status": "Available"
+  },
+  {
+    "id": 190,
+    "title": "Red Sky Mercy",
+    "author": "Rosa Brown",
+    "genre": "Mystery",
+    "publishedYear": 1853,
+    "status": "Available"
+  },
+  {
+    "id": 191,
+    "title": "The Memory Orchard",
+    "author": "Noah Garcia",
+    "genre": "Horror",
+    "publishedYear": 1969,
+    "status": "Available"
+  },
+  {
+    "id": 192,
+    "title": "Winter in Vellum",
+    "author": "Noah Garcia",
+    "genre": "Romance",
+    "publishedYear": 1824,
+    "status": "Issued"
+  },
+  {
+    "id": 193,
+    "title": "The Forgotten Port",
+    "author": "Noah Smith",
+    "genre": "Post-apocalyptic",
+    "publishedYear": 1802,
+    "status": "Available"
+  },
+  {
+    "id": 194,
+    "title": "A Hollow in the Garden",
+    "author": "Olivia Lee",
+    "genre": "Philosophy",
+    "publishedYear": 2016,
+    "status": "Available"
+  },
+  {
+    "id": 195,
+    "title": "Tidings from the Hollow Tree",
+    "author": "Olivia Brown",
+    "genre": "Business",
+    "publishedYear": 1925,
+    "status": "Issued"
+  },
+  {
+    "id": 196,
+    "title": "Letters in Sapphire",
+    "author": "Alice Lee",
+    "genre": "Contemporary",
+    "publishedYear": 1862,
+    "status": "Issued"
+  },
+  {
+    "id": 197,
+    "title": "Midnight at the Black Well",
+    "author": "Rosa Lee",
+    "genre": "Drama",
+    "publishedYear": 1961,
+    "status": "Issued"
+  },
+  {
+    "id": 198,
+    "title": "The Rootbound Path",
+    "author": "Olivia Garcia",
+    "genre": "Finance",
+    "publishedYear": 1813,
+    "status": "Issued"
+  },
+  {
+    "id": 199,
+    "title": "The Fifth Lantern",
+    "author": "Noah Miller",
+    "genre": "Dystopian",
+    "publishedYear": 1895,
+    "status": "Issued"
+  },
+  {
+    "id": 200,
+    "title": "The Paper Ship",
+    "author": "Amanda Burks",
+    "genre": "Self-help",
+    "publishedYear": 1828,
+    "status": "Issued"
+  },
+  {
+    "id": 201,
+    "title": "Among the Dust and Leaves",
+    "author": "Amanda Johnson",
+    "genre": "Thriller",
+    "publishedYear": 1950,
+    "status": "Issued"
+  },
+  {
+    "id": 202,
+    "title": "Shifting Wind",
+    "author": "John Miller",
+    "genre": "Self-help",
+    "publishedYear": 1804,
+    "status": "Issued"
+  },
+  {
+    "id": 203,
+    "title": "Crescent Veil",
+    "author": "Rosa Taylor",
+    "genre": "Finance",
+    "publishedYear": 1972,
+    "status": "Available"
+  },
+  {
+    "id": 204,
+    "title": "All the Time We Never Had",
+    "author": "John Davis",
+    "genre": "Philosophy",
+    "publishedYear": 1970,
+    "status": "Issued"
+  },
+  {
+    "id": 205,
+    "title": "The Sound of Distant Rain",
+    "author": "John Taylor",
+    "genre": "Classic",
+    "publishedYear": 1962,
+    "status": "Issued"
+  },
+  {
+    "id": 206,
+    "title": "Of Ashes and Altars",
+    "author": "Alice Davis",
+    "genre": "Post-apocalyptic",
+    "publishedYear": 1946,
+    "status": "Issued"
+  },
+  {
+    "id": 207,
+    "title": "The Crimson Oath",
+    "author": "Olivia Davis",
+    "genre": "Memoir",
+    "publishedYear": 1872,
+    "status": "Available"
+  },
+  {
+    "id": 208,
+    "title": "Whisper of Dragons",
+    "author": "Olivia Smith",
+    "genre": "Memoir",
+    "publishedYear": 2005,
+    "status": "Available"
+  },
+  {
+    "id": 209,
+    "title": "The Silver Throne",
+    "author": "Mark Garcia",
+    "genre": "Business",
+    "publishedYear": 1916,
+    "status": "Issued"
+  },
+  {
+    "id": 210,
+    "title": "A Song for the Fallen",
+    "author": "Emma Taylor",
+    "genre": "Young Adult",
+    "publishedYear": 1922,
+    "status": "Available"
+  },
+  {
+    "id": 211,
+    "title": "Crown of Shadows",
+    "author": "Rosa Smith",
+    "genre": "Productivity",
+    "publishedYear": 1995,
+    "status": "Issued"
+  },
+  {
+    "id": 212,
+    "title": "The Wandering Mage",
+    "author": "Emma Harper",
+    "genre": "Adventure",
+    "publishedYear": 1988,
+    "status": "Issued"
+  },
+  {
+    "id": 213,
+    "title": "Emberblade",
+    "author": "Liam Davis",
+    "genre": "Thriller",
+    "publishedYear": 1938,
+    "status": "Available"
+  },
+  {
+    "id": 214,
+    "title": "The Curse of Eldwyn",
+    "author": "Alice Brown",
+    "genre": "Young Adult",
+    "publishedYear": 1809,
+    "status": "Available"
+  },
+  {
+    "id": 215,
+    "title": "Shadows of the Fey",
+    "author": "Liam Burks",
+    "genre": "Drama",
+    "publishedYear": 1883,
+    "status": "Available"
+  },
+  {
+    "id": 216,
+    "title": "The Raven King's Heir",
+    "author": "Amanda Lee",
+    "genre": "Memoir",
+    "publishedYear": 1822,
+    "status": "Available"
+  },
+  {
+    "id": 217,
+    "title": "Beyond the Event Horizon",
+    "author": "Emma Miller",
+    "genre": "Philosophy",
+    "publishedYear": 1837,
+    "status": "Available"
+  },
+  {
+    "id": 218,
+    "title": "Project Titan",
+    "author": "Olivia Burks",
+    "genre": "Drama",
+    "publishedYear": 1823,
+    "status": "Available"
+  },
+  {
+    "id": 219,
+    "title": "The Quantum Deception",
+    "author": "Sam Burks",
+    "genre": "Mystery",
+    "publishedYear": 1806,
+    "status": "Available"
+  },
+  {
+    "id": 220,
+    "title": "Echoes of Mars",
+    "author": "Sam Taylor",
+    "genre": "Classic",
+    "publishedYear": 1870,
+    "status": "Available"
+  },
+  {
+    "id": 221,
+    "title": "Timewarped",
+    "author": "Liam Davis",
+    "genre": "Non-fiction",
+    "publishedYear": 1860,
+    "status": "Issued"
+  },
+  {
+    "id": 222,
+    "title": "Fractured Reality",
+    "author": "Mark Davis",
+    "genre": "Horror",
+    "publishedYear": 1978,
+    "status": "Available"
+  },
+  {
+    "id": 223,
+    "title": "The Singularity Code",
+    "author": "Emma Brown",
+    "genre": "Fiction",
+    "publishedYear": 1958,
+    "status": "Issued"
+  },
+  {
+    "id": 224,
+    "title": "Nova Drift",
+    "author": "Amanda Brown",
+    "genre": "Thriller",
+    "publishedYear": 1853,
+    "status": "Issued"
+  },
+  {
+    "id": 225,
+    "title": "Last Colony Earth",
+    "author": "Sam Johnson",
+    "genre": "Finance",
+    "publishedYear": 1843,
+    "status": "Available"
+  },
+  {
+    "id": 226,
+    "title": "Ghosts of Andromeda",
+    "author": "John Smith",
+    "genre": "Contemporary",
+    "publishedYear": 1907,
+    "status": "Available"
+  },
+  {
+    "id": 227,
+    "title": "The Vanishing Hour",
+    "author": "Emma Johnson",
+    "genre": "Classic",
+    "publishedYear": 1996,
+    "status": "Available"
+  },
+  {
+    "id": 228,
+    "title": "Beneath the Ivy",
+    "author": "Noah Burks",
+    "genre": "Classic",
+    "publishedYear": 2022,
+    "status": "Available"
+  },
+  {
+    "id": 229,
+    "title": "A Trace of Smoke",
+    "author": "Amanda Harper",
+    "genre": "Contemporary",
+    "publishedYear": 1916,
+    "status": "Issued"
+  },
+  {
+    "id": 230,
+    "title": "The Final Evidence",
+    "author": "Olivia Brown",
+    "genre": "Self-help",
+    "publishedYear": 1922,
+    "status": "Available"
+  },
+  {
+    "id": 231,
+    "title": "The Silent Witness",
+    "author": "Alice Lee",
+    "genre": "Classic",
+    "publishedYear": 1983,
+    "status": "Issued"
+  },
+  {
+    "id": 232,
+    "title": "Dark Harbor",
+    "author": "Amanda Miller",
+    "genre": "Fiction",
+    "publishedYear": 1972,
+    "status": "Available"
+  },
+  {
+    "id": 233,
+    "title": "Shattered Alibi",
+    "author": "Amanda Smith",
+    "genre": "Thriller",
+    "publishedYear": 1901,
+    "status": "Issued"
+  },
+  {
+    "id": 234,
+    "title": "Secrets in the Fog",
+    "author": "Mark Davis",
+    "genre": "Business",
+    "publishedYear": 1964,
+    "status": "Available"
+  },
+  {
+    "id": 235,
+    "title": "The Ninth Room",
+    "author": "Noah Miller",
+    "genre": "Horror",
+    "publishedYear": 1963,
+    "status": "Available"
+  },
+  {
+    "id": 236,
+    "title": "Buried in Blue",
+    "author": "Amanda Brown",
+    "genre": "Productivity",
+    "publishedYear": 1827,
+    "status": "Issued"
+  },
+  {
+    "id": 237,
+    "title": "Love at Redwood Lake",
+    "author": "Sam Garcia",
+    "genre": "Young Adult",
+    "publishedYear": 1912,
+    "status": "Issued"
+  },
+  {
+    "id": 238,
+    "title": "The Coffee Shop Letters",
+    "author": "Mark Miller",
+    "genre": "Dystopian",
+    "publishedYear": 1851,
+    "status": "Issued"
+  },
+  {
+    "id": 239,
+    "title": "Midnight Sunflowers",
+    "author": "Noah Burks",
+    "genre": "Classic",
+    "publishedYear": 1997,
+    "status": "Available"
+  },
+  {
+    "id": 240,
+    "title": "The Paris Proposal",
+    "author": "Alice Harper",
+    "genre": "Self-help",
+    "publishedYear": 1914,
+    "status": "Available"
+  },
+  {
+    "id": 241,
+    "title": "Falling Through June",
+    "author": "Amanda Taylor",
+    "genre": "Dystopian",
+    "publishedYear": 1800,
+    "status": "Available"
+  },
+  {
+    "id": 242,
+    "title": "Hearts on Fire",
+    "author": "Alice Brown",
+    "genre": "Non-fiction",
+    "publishedYear": 1835,
+    "status": "Available"
+  },
+  {
+    "id": 243,
+    "title": "The Lighthouse Keeper’s Promise",
+    "author": "Emma Johnson",
+    "genre": "Biography",
+    "publishedYear": 2023,
+    "status": "Issued"
+  },
+  {
+    "id": 244,
+    "title": "Beneath the Cherry Moon",
+    "author": "Rosa Brown",
+    "genre": "Science Fiction",
+    "publishedYear": 1854,
+    "status": "Available"
+  },
+  {
+    "id": 245,
+    "title": "Waves of Us",
+    "author": "Alice Garcia",
+    "genre": "Contemporary",
+    "publishedYear": 1811,
+    "status": "Issued"
+  },
+  {
+    "id": 246,
+    "title": "Letters to You",
+    "author": "Rosa Smith",
+    "genre": "Business",
+    "publishedYear": 1859,
+    "status": "Available"
+  },
+  {
+    "id": 247,
+    "title": "The Art of Forgetting",
+    "author": "Liam Burks",
+    "genre": "Dystopian",
+    "publishedYear": 1830,
+    "status": "Issued"
+  },
+  {
+    "id": 248,
+    "title": "The Forgotten Manuscript",
+    "author": "Liam Taylor",
+    "genre": "Contemporary",
+    "publishedYear": 1970,
+    "status": "Available"
+  },
+  {
+    "id": 249,
+    "title": "Portraits of Rain",
+    "author": "Olivia Miller",
+    "genre": "Contemporary",
+    "publishedYear": 1892,
+    "status": "Issued"
+  }
+]
